@@ -1,0 +1,17 @@
+Package: test
+Version: 0.0.0
+Date: 2018-07-02
+Title: mann-whistney gene set enrichment
+Author: suosuo
+Maintainer: 
+Depends: R (>= 3.1.0)
+Imports:
+Suggests:
+Description: test
+License: GPL
+URL: https://github.com/
+BugReports: https://github.com/
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2017-05-15 09:53:27 UTC; pz
